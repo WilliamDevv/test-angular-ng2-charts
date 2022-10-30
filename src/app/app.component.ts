@@ -25,9 +25,9 @@ export class AppComponent {
         label: 'Durée des sessions',
         fill: true,
         tension: 0.25,
-        color: 'rgba(215, 230, 235, 1)',
         borderColor: 'rgba(22, 39, 65, 1)',
-        backgroundColor: 'rgba(51, 87, 108, 1)',
+        backgroundColor: 'rgba(51, 87, 108, 0.85)',
+        pointBackgroundColor: 'rgba(51, 87, 108, 1)',
       },
     ],
   };
